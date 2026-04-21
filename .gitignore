@@ -25,6 +25,9 @@ groups/global/*
 # Temp files
 .tmp-*
 
+# Runtime PID file (Windows autostart)
+nanoclaw.pid
+
 # OS
 .DS_Store
 
